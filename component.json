@@ -1,7 +1,7 @@
 {
   "name": "inherits",
   "description": "Browser-friendly inheritance fully compatible with standard node.js inherits()",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "keywords": [
     "inheritance",
     "class",
@@ -13,7 +13,7 @@
     "browserify"
   ],
   "main": "inherits_browser.js",
-  "repository": "isaacs/inherits",
+  "repository": "component/inherits",
   "license": "ISC",
   "scripts": [
     "inherits_browser.js"
